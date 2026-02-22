@@ -43,6 +43,6 @@ working/*
 .env.sentry-build-plugin
 
 # IDEs
-.idea
+.idea/
 .vscode/
 
